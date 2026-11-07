@@ -75,7 +75,7 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B62 | Lights / wipers | Right Indicator | B43 |
 | B63 | Lights / wipers | Hazard Lights | B69 |
 | B64 | Lights / wipers | Retractable Headlights | B70 |
-| B65 | Lights / wipers | Wipers | B19 |
+| B65 | Lights / wipers | Wipers + | B19 |
 | B66 | Lights / wipers | Wipers - | B71 |
 | B67 | Pit / recovery | Pit Request | B85 |
 | B68 | Pit / recovery | Return To Pit | B86 |
@@ -136,6 +136,9 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B123 | Driving | Tyre Set - | new |
 | B124 | Driving | Tyre Set + | new |
 | B125 | Driving | Repair Toggle | new |
+| B126 | Driver aids (spare slots) | TC Slip Angle - | new |
+| B127 | Driver aids (spare slots) | TC Slip Angle + | new |
+| B128 | Driver aids (spare slots) | TC Override | new |
 | B129 | Controller 2 (buttonbox) | Standings | new |
 | B130 | Controller 2 (buttonbox) | Splits | new |
 | B131 | Controller 2 (buttonbox) | Pit Reset | new |
