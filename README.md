@@ -111,5 +111,30 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B98 | Seat | SEAT Down | B54 |
 | B99 | FFB | FFB Gain 1 | B94 |
 | B100 | FFB | FFB Gain 2 | B95 |
+| B101 | Pit / race | Pit Menu Toggle | new |
+| B102 | Pit / race | Pit Menu Up | new |
+| B103 | Pit / race | Pit Menu Down | new |
+| B104 | Pit / race | Pit Menu Increase | new |
+| B105 | Pit / race | Pit Menu Decrease | new |
+| B106 | Pit / race | Fuel Mixture - | new |
+| B107 | Pit / race | Fuel Mixture + | new |
+| B108 | Online | Push To Talk | new |
+| B109 | Online | Open Chat | new |
+| B110 | Camera | Next Camera | new |
+| B111 | Camera | Previous Camera | new |
+| B112 | Camera | Look Up | new |
+| B113 | Camera | Look Down | new |
+| B114 | Camera | Reset VR View | new |
+| B115 | Camera | Toggle Mirror | new |
+| B116 | Replay | Replay Play Pause | new |
+| B117 | Replay | Replay Rewind | new |
+| B118 | Replay | Replay Fast Forward | new |
+| B119 | Replay | Save Replay | new |
+| B120 | Replay | Photo Mode | new |
+| B121 | Dash / HUD | Cycle Nameplates | new |
+| B122 | Driving | Handbrake Button | new |
+| B123 | Driving | Tyre Set - | new |
+| B124 | Driving | Tyre Set + | new |
+| B125 | Driving | Repair Toggle | new |
 
 Output buttons are 0-based in the config: `ButtonId` 0 is B1.
