@@ -14,7 +14,7 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B1 | Shifting | ShiftDown | B1 |
 | B2 | Shifting | ShiftUp | B2 |
 | B3 | Gears | GearR | B21 |
-| B4 | Gears | Neutral | B40 |
+| B4 | Gears | GearN | B40 |
 | B5 | Gears | Gear1 | B22 |
 | B6 | Gears | Gear2 | B23 |
 | B7 | Gears | Gear3 | B24 |
