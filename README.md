@@ -136,5 +136,18 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B123 | Driving | Tyre Set - | new |
 | B124 | Driving | Tyre Set + | new |
 | B125 | Driving | Repair Toggle | new |
+| B129 | Controller 2 (buttonbox) | Standings | new |
+| B130 | Controller 2 (buttonbox) | Splits | new |
+| B131 | Controller 2 (buttonbox) | Pit Reset | new |
+| B132 | Controller 2 (buttonbox) | Pit Full Service | new |
+| B133 | Controller 2 (buttonbox) | Pit Fuel Toggle | new |
+| B134 | Controller 2 (buttonbox) | Fuel To End | new |
+| B135 | Controller 2 (buttonbox) | Tear Off | new |
+| B136 | Controller 2 (buttonbox) | Pass Left | new |
+| B137 | Controller 2 (buttonbox) | Pass Right | new |
+| B138 | Controller 2 (buttonbox) | Thanks | new |
+| B139 | Controller 2 (buttonbox) | Sorry | new |
 
 Output buttons are 0-based in the config: `ButtonId` 0 is B1.
+
+B129 to B256 are Controller 2 (shown as buttons 1 to 128 on that device in the games).
