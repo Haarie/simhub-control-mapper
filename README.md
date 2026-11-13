@@ -109,8 +109,8 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B96 | Seat | SEAT Back | B52 |
 | B97 | Seat | SEAT Up | B53 |
 | B98 | Seat | SEAT Down | B54 |
-| B99 | FFB | FFB Gain 1 | B94 |
-| B100 | FFB | FFB Gain 2 | B95 |
+| B99 | FFB | FFB Gain - | B94 |
+| B100 | FFB | FFB Gain + | B95 |
 | B101 | Pit / race | Pit Menu Toggle | new |
 | B102 | Pit / race | Pit Menu Up | new |
 | B103 | Pit / race | Pit Menu Down | new |
@@ -150,6 +150,7 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B137 | Controller 2 (buttonbox) | Pass Right | new |
 | B138 | Controller 2 (buttonbox) | Thanks | new |
 | B139 | Controller 2 (buttonbox) | Sorry | new |
+| B140 | Controller 2 (buttonbox) | Reset FFB | new |
 
 Output buttons are 0-based in the config: `ButtonId` 0 is B1.
 
