@@ -151,6 +151,7 @@ One set of Control Mapper output roles for Assetto Corsa, ACC, AC Rally, AC EVO,
 | B138 | Controller 2 (buttonbox) | Thanks | new |
 | B139 | Controller 2 (buttonbox) | Sorry | new |
 | B140 | Controller 2 (buttonbox) | Reset FFB | new |
+| B141 | Controller 2 (buttonbox) | Stop Wipers | new |
 
 Output buttons are 0-based in the config: `ButtonId` 0 is B1.
 
